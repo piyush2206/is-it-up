@@ -1,4 +1,5 @@
-// 1. Program to check status of 5 websites. Print "OK" if site is up and "NOT OK" if site is down.
+// A simple GoLang program to check if provided wibsites URLs are Up.
+
 package main
 
 import (
